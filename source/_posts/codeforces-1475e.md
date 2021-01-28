@@ -8,7 +8,7 @@ categories: ACM
 [Problem - 1475E - Codeforces](https://codeforces.com/problemset/problem/1475/E)
 
 ## 题目大意
-给出两个整数$n$和$k$($1 \le k \le n \le 1000$)，之后给出$n$个整数$a_1, a_2, \ldots a_n$。选出其中的$k$个整数使它们的和最大。最多有几种选法(对$10^9 + 7$求模)？如果不存在任何一种选法，输出`-1`。
+给出两个整数$n$和$k$($1 \le k \le n \le 1000$)，之后给出$n$个整数$a_1, a_2, \ldots a_n$。选出其中的$k$个整数使它们的和最大。最多有几种选法(对$10^9 + 7$求模)？。
 <!-- more -->
 
 ## 思路
@@ -69,8 +69,6 @@ void solve() {
             return;
         }
     }
-
-    cout << -1 << endl;
 }
 
 int main() {
