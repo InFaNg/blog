@@ -23,7 +23,7 @@ jobs:
         run: npm install .
 
       - name: Page Build
-        run: npx hexo generator
+        run: npx hexo generate
 
       - name: Gulp minify
         run: npx gulp minify
