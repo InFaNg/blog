@@ -19,10 +19,16 @@ jobs:
         with:
           node-version: '12'
 
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
       - name: Install Node.js dependencies
         run: npm install .
 
-      - name: Page Build
+      - name: Page build
         run: npx hexo generate
 
       - name: Gulp minify
