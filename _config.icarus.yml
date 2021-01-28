@@ -315,7 +315,7 @@ plugins:
     # Enable page startup animations
     animejs: false
     # Show the "back to top" button
-    back_to_top: true
+    back_to_top: false
     # Baidu Analytics plugin settings
     # https://tongji.baidu.com
     baidu_analytics:
@@ -371,7 +371,7 @@ plugins:
     # http://outdatedbrowser.com/
     outdated_browser: false
     # Show a progress bar at top of the page on page loading
-    progressbar: true
+    progressbar: false
     # Statcounter statistics
     # https://statcounter.com/
     statcounter:
