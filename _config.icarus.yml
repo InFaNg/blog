@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /images/favicon/apple-touch-icon.png
+    favicon: https://cdn.jsdelivr.net/gh/infang/blog@gh-pages/images/favicon/apple-touch-icon.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -227,7 +227,7 @@ widgets:
         # Author's current location
         location: 浙江, 杭州
         # URL or path to the avatar image
-        avatar: /images/favicon/apple-touch-icon.png
+        avatar: https://cdn.jsdelivr.net/gh/infang/blog@gh-pages/images/favicon/apple-touch-icon.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
@@ -390,6 +390,6 @@ providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: loli
+    fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: loli
+    iconcdn: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/css/all.min.css
