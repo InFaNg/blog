@@ -7,6 +7,15 @@ gulp.task('minify:html', () => {
         .pipe(htmlmin({
             collapseWhitespace: true,
             conservativeCollapse: true,
+            minifyJS: true,
+            minifyCSS: true,
+            minifyURLs: true,
+            removeComments: true,
+            removeOptionalTags: true,
+            removeRedundantAttributes: true,
+            removeStyleLinkTypeAttributes: true,
+            removeScriptTypeAttributes: true,
+            useShortDoctype: true
         }))
         .pipe(gulp.dest('./public'));
 });
