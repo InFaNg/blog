@@ -30,12 +30,4 @@ gulp.task('minify:css', () => {
     .pipe(gulp.dest('./public'));
 });
 
-gulp.task('minify:image', () => {
-    return gulp.src('./public/**/*')
-        .pipe(imagemin({
-            verbose: true
-        }))
-        .pipe(gulp.dest('./public'));
-});
-
-gulp.task('minify', gulp.series('minify:html', 'minify:css', 'minify:image'));
+gulp.task('minify', gulp.series('minify:html', 'minify:css'));
