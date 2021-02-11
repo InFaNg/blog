@@ -1,7 +1,7 @@
 const gulp = require('gulp');
 const htmlmin = require('gulp-htmlmin');
 const cleanCSS = require('gulp-clean-css');
-const imagemin = require('gulp-imagemin');
+const uglify = require('gulp-uglify-es').default;
 
 gulp.task('minify:html', () => {
     return gulp.src('./public/**/*.html')
@@ -30,4 +30,10 @@ gulp.task('minify:css', () => {
     .pipe(gulp.dest('./public'));
 });
 
-gulp.task('minify', gulp.series('minify:html', 'minify:css'));
+gulp.task("minify:js", () => {
+    return gulp.src('./public/**/*.js')
+        .pipe(uglify(/* options */))
+    .pipe(gulp.dest('./public'));
+});
+
+gulp.task('minify', gulp.series('minify:html', 'minify:css', 'minify:js'));
