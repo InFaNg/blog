@@ -207,7 +207,7 @@ sidebar:
     # Left sidebar configurations
     left:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
@@ -272,10 +272,10 @@ widgets:
             # Hexo: 'https://hexo.io'
             # Bulma: 'https://bulma.io'
     # Categories widget configurations
-    -
+    # -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: categories
+        # position: left
+        # type: categories
     # Recent posts widget configurations
     # -
         # Where should the widget be placed, left sidebar or right sidebar
