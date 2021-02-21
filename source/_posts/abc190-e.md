@@ -1,7 +1,7 @@
 ---
 title: 'AtCoder Beginner Contest 190: E - Magical Ornament'
 date: 2021-02-08 18:56:43
-tags: [bitbits, dp, graphs]
+tags: [bitmasks, dp, graphs]
 categories: ACM
 ---
 ## 题目链接
