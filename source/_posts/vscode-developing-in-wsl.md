@@ -23,19 +23,19 @@ categories: 技术向
 3. 在命令行中输入 `code .`，此时，Visual Studio Code 会拷贝在 WSL 下需要用到的文件。整个过程可能会需要一段时间，不过一般不会很长
 4. 一段时间之后，会自动打开一个新的 VS Code 窗口，你会看到一个 VS Code 运行在 WSL 所对应的工作目录的提示
 
-    ![wsl-starting-notification](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wsl-starting-notification.png)
+    ![wsl-starting-notification](/images/wsl-starting-notification.png)
 
     此时，VS Code 仍在自动配置运行在 WSL 中的相关环境
 
 5. VS Code 自动配置结束后，左下角会出现一个提示运行在 WSL 开发环境中的小标记。接下来只需在 WSL 中配置相关的开发环境如安装 GCC 后，就可以和往常一样进行相应的开发
 
-    ![wsl-statusbar-indicator](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wsl-statusbar-indicator.png)
+    ![wsl-statusbar-indicator](/images/wsl-statusbar-indicator.png)
 
 至此，相关的开发环境配置已全部完成。你可以像往常一样进行编剧文件、调试等各种操作，只是现在这些操作都是在 WSL 下进行
 
 如果想从 WSL 环境中重新回到 Windows 开发环境，只需在 VS Code 中按下`F1` 键，然后输入命令 `Remote-WSL: Reopen Folder in Windows` 即可
 
-![reopen-folder-in-Windows](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/reopen-folder-in-windows.png)
+![reopen-folder-in-Windows](/images/reopen-folder-in-windows.png)
 
 同理，如果想从 Windows 开发环境下跳转到 WSL 环境，也只需在 VS Code 中按下`F1` 键，然后输入命令 `Remote-WSL: Reopen Folder in WSL`
 
@@ -54,7 +54,7 @@ categories: 技术向
 
 之前大量安装在本地的扩展会被切换到 "Disabled" 状态，需要我们将其安装在 WSL 端才可继续使用原有扩展
 
-![wsl-disabled-extensions](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wsl-disabled-extensions.png)
+![wsl-disabled-extensions](/images/wsl-disabled-extensions.png)
 
 不过好在我们只需点击 `Install on WSL` 即可一键将原有扩展安装在 WSL 端
 

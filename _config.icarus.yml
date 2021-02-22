@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://cdn.jsdelivr.net/gh/infang/blog@gh-pages/images/favicon/apple-touch-icon.png
+    favicon: /images/favicon/apple-touch-icon.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -227,7 +227,7 @@ widgets:
         # Author's current location
         location: 浙江, 杭州
         # URL or path to the avatar image
-        avatar: https://cdn.jsdelivr.net/gh/infang/blog@gh-pages/images/favicon/apple-touch-icon.png
+        avatar: /images/favicon/apple-touch-icon.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar

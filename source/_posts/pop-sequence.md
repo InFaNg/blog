@@ -32,7 +32,7 @@ For each pop sequence, print in one line "YES" if it is indeed a possible pop se
 > NO
 
 ### 题目截图
-![pop_sequence](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/pop_sequence.png)
+![pop_sequence](/images/pop_sequence.png)
 
 
 ### 题目大意

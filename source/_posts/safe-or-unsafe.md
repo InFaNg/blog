@@ -93,9 +93,9 @@ categories: ACM
 
 统计完后，**我们将按字符出现次数构造一个最小优先队列，并对队列中字符出现次数最小的两个结点进行合并，合并操作一共进行 `n - 1` 次**. 完成上面的操作后，我们就将相当于是创建了一棵二叉树，如下图所示：
 
-![safe_or_unsafe_1](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/safe_or_unsafe_1.png)
-![safe_or_unsafe_2](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/safe_or_unsafe_2.png)
-![safe_or_unsafe_3](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/safe_or_unsafe_3.png)
+![safe_or_unsafe_1](/images/safe_or_unsafe_1.png)
+![safe_or_unsafe_2](/images/safe_or_unsafe_2.png)
+![safe_or_unsafe_3](/images/safe_or_unsafe_3.png)
 
 建立完二叉树后，就不难得到字符所对应的码字：从根结点开始，自上而下地去寻找字符，其中 0 表示左子结点、1 表示右子结点. 例如，`e` 位于根结点的左子结点的左子结点的右子结点，那么它的码字就是 `001`. 由于在我们构造的二叉树中，字符都位于二叉树的叶子结点上，所以我们所构造的码字就是一种前缀码，证明如下：
 

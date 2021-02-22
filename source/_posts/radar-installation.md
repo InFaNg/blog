@@ -12,7 +12,7 @@ We use Cartesian coordinate system, defining the coasting is the x-axis. The sea
 
 <!-- more -->
 
-![rader_installation_sample](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/rader_installation_sample.png)
+![rader_installation_sample](/images/rader_installation_sample.png)
 
 ### Input
 The input consists of several test cases. The first line of each case contains two integers n (1<=n<=1000) and d, where n is the number of islands in the sea and d is the distance of coverage of the radar installation. This is followed by n lines each containing two integers representing the coordinate of the position of each island. Then a blank line follows to separate the cases.
@@ -38,7 +38,7 @@ For each test case output one line consisting of the test case number followed b
 > Case 2: 1
 
 ### 题目截图
-![rader_installation](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/rader_installation.png)
+![rader_installation](/images/rader_installation.png)
 
 ### 题目链接
 [1328 -- Radar Installation](http://poj.org/problem?id=1328)

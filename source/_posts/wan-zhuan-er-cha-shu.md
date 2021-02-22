@@ -24,18 +24,18 @@ categories: ACM
 > 4 6 1 7 5 3 2
 
 ### 题目截图
-![玩转二叉树题目](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wan_zhuan_er_cha_shu_problem.png)
+![玩转二叉树题目](/images/wan_zhuan_er_cha_shu_problem.png)
 
 ## 分析
 
 由前序序列的性质可知，前序序列的第一个数一定是当前二叉树的根节点. 例如，再输入样例中第一个数是 4，因此我们可知 4 是二叉树的根节点。之后再在中序遍历序列中找到 4，就可以知道 4 的左边有三个数，分别是 1、2、3，4 的右边同样有三个数分别是 5、6、7. 此外，我们还可以知道前三个数 1、2、3 按照中序排序序列的顺序为 1、3、2，后三个数5、6、7的中序排序序列顺序为6、5、7.
-![玩转二叉树分析1](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wan_zhuan_er_cha_shu_1.png)
+![玩转二叉树分析1](/images/wan_zhuan_er_cha_shu_1.png)
 
 接下来，我们可以利用递归分别对根节点左侧的三个数与右侧的三个数建立二叉树. 下面以左侧的三个数为例，它们的前序遍历序列为 1、3、2，中序遍历序列为 1、2、3. 将这三个数看作完整的二叉树，则他们的根节点是 1，它的左子节点为空，右子节点有两个数. 再对右侧两个数分析，它们的根节点为 3，左子节点为 2，右子节点为空. 这里需要特别注意的是，**前序遍历序列为 3、2，中序遍历序列为 2、3 的两个数，只有可能为一个是父节点，一个为左子节点或右子节点，而不可能两个都为子节点，即必有一个为父节点**. 因此不难得出，前序遍历序列的第一个数 3 即为父节点，在中序遍历序列中，2 位于 3 的左边，即 2 为 3 的左子节点.
-![玩转二叉树分析2](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wan_zhuan_er_cha_shu_2.png)
+![玩转二叉树分析2](/images/wan_zhuan_er_cha_shu_2.png)
 
 对右边的子二叉树做同样的分析，即可得出右侧的结构.
-![玩转二叉树分析3](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/wan_zhuan_er_cha_shu_3.png)
+![玩转二叉树分析3](/images/wan_zhuan_er_cha_shu_3.png)
 
 接下来，只需建立个队列，将二叉树的每个节点的数据装入队列即可。其中，由于题目要求反转，只需先装入右子节点，再装入左子节点即可.
 

@@ -28,8 +28,8 @@ mathjax: true
 以题目给定输入样例为例，我们可以参考[【数据结构】玩转二叉树](/2020/07/19/wan-zhuan-er-cha-shu/)的做法. 只不过在这道题中，我们需要根据**后续遍历的最后一位**确定树的根节点，然后在中序遍历中找到树的根节点. 位于树的左边的数即为树的左子节点所包含的数，树的右边的数即为树的右子节点所包含的数. 使用递归循环往复，直到左子节点、右子节点均不含子节点为止. 
 
 下面以图片形式给出了具体的过程
-![tree_traversals1.png](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/tree_traversals1.png)
-![tree_traversals2.png](//cdn.jsdelivr.net/gh/InFaNg/infang.github.io/images/tree_traversals2.png)
+![tree_traversals1.png](/images/tree_traversals1.png)
+![tree_traversals2.png](/images/tree_traversals2.png)
 
 但是，我们真的需要定义一个结构体来储存树的每一个节点所对应的值、它的左子节点和它的右子节点吗？这么做是没有什么问题，但是还有更好的方法. **我们可以使用两个一维数组，分别用来存放左子节点和右子节点的信息，数组的下标用来表示父节点的值，数组的值对应父节点的左子节点或是右子节点**. 例如，我们可以令 `L[4] = 1` 表示 4 的左子节点是 1，令 `R[4] = 6` 表示 4 的右子节点是 6. 这么一来，不仅省去了定义结构体，还使得空间复杂度从 $T(n) = O(3n)$ 降为 $T(n) = O(2n)$.
 
