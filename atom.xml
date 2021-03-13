@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>InFaNg&#39;s Blog</title>
+  <icon>https://infang.me/images/favicon/favicon-16x16.png</icon>
+  <subtitle>Mamba 4 Life</subtitle>
+  <link href="https://infang.me/atom.xml" rel="self"/>
+  
+  <link href="https://infang.me/"/>
+  <updated>2021-03-13T15:31:33.740Z</updated>
+  <id>https://infang.me/</id>
+  
+  <author>
+    <name>InFaNg</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 192: D - Base n</title>
+    <link href="https://infang.me/2021/02/21/abc-192-d/"/>
+    <id>https://infang.me/2021/02/21/abc-192-d/</id>
+    <published>2021-02-21T12:50:12.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc192/tasks/abc192_d&quot;&gt;D - Base n&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="binary search" scheme="https://infang.me/tags/binary-search/"/>
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 190 C,D,E,F题题解</title>
+    <link href="https://infang.me/2021/02/08/abc190/"/>
+    <id>https://infang.me/2021/02/08/abc190/</id>
+    <published>2021-02-08T12:42:31.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/2021/02/08/abc190-c/&quot;&gt;C - Bowls and Dishes&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;/2021/02/08/abc190-d/&quot;&gt;D - Staircase Sequences&lt;/a&gt;&lt;br&gt;
+&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="AtCoder Beginner Contest" scheme="https://infang.me/tags/AtCoder-Beginner-Contest/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 190: F - Shift and Inversions</title>
+    <link href="https://infang.me/2021/02/08/abc190-f/"/>
+    <id>https://infang.me/2021/02/08/abc190-f/</id>
+    <published>2021-02-08T11:59:17.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc190/tasks/abc190_f&quot;&gt;F - Shift and Inversions&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="constructive algorithms" scheme="https://infang.me/tags/constructive-algorithms/"/>
+    
+    <category term="sortings" scheme="https://infang.me/tags/sortings/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 190: E - Magical Ornament</title>
+    <link href="https://infang.me/2021/02/08/abc190-e/"/>
+    <id>https://infang.me/2021/02/08/abc190-e/</id>
+    <published>2021-02-08T10:56:43.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc190/tasks/abc190_e&quot;&gt;E - Magical Ornament&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+    <category term="bitmasks" scheme="https://infang.me/tags/bitmasks/"/>
+    
+    <category term="graphs" scheme="https://infang.me/tags/graphs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 190: D - Staircase Sequences</title>
+    <link href="https://infang.me/2021/02/08/abc190-d/"/>
+    <id>https://infang.me/2021/02/08/abc190-d/</id>
+    <published>2021-02-08T10:37:41.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc190/tasks/abc190_d&quot;&gt;D - Staircase Sequences&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="number" scheme="https://infang.me/tags/number/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 190: C - Bowls and Dishes</title>
+    <link href="https://infang.me/2021/02/08/abc190-c/"/>
+    <id>https://infang.me/2021/02/08/abc190-c/</id>
+    <published>2021-02-08T10:21:23.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc190/tasks/abc190_c&quot;&gt;C - Bowls and Dishes&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="bitmasks" scheme="https://infang.me/tags/bitmasks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 189 D,E,F题题解</title>
+    <link href="https://infang.me/2021/02/01/abc189/"/>
+    <id>https://infang.me/2021/02/01/abc189/</id>
+    <published>2021-02-01T12:24:22.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/2021/01/31/abc189-d/&quot;&gt;D - Logical Expression&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;/2021/01/31/abc189-e/&quot;&gt;E - Rotate and Flip&lt;/a&gt;&lt;br&gt;
+&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="AtCoder Beginner Contest" scheme="https://infang.me/tags/AtCoder-Beginner-Contest/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 189: F - Sugoroku2</title>
+    <link href="https://infang.me/2021/01/31/abc189-f/"/>
+    <id>https://infang.me/2021/01/31/abc189-f/</id>
+    <published>2021-01-31T14:50:03.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc189/tasks/abc189_f&quot;&gt;F - Sugoroku2&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 189: E - Rotate and Flip</title>
+    <link href="https://infang.me/2021/01/31/abc189-e/"/>
+    <id>https://infang.me/2021/01/31/abc189-e/</id>
+    <published>2021-01-31T13:48:57.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc189/tasks/abc189_e&quot;&gt;E - Rotate and Flip&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AtCoder Beginner Contest 189: D - Logical Expression</title>
+    <link href="https://infang.me/2021/01/31/abc189-d/"/>
+    <id>https://infang.me/2021/01/31/abc189-d/</id>
+    <published>2021-01-31T13:07:37.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://atcoder.jp/contests/abc189/tasks/abc189_d&quot;&gt;D - Logical Expression&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+    <category term="bitmasks" scheme="https://infang.me/tags/bitmasks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces Round #697 (Div. 3) 题解</title>
+    <link href="https://infang.me/2021/01/27/codeforces-round-697/"/>
+    <id>https://infang.me/2021/01/27/codeforces-round-697/</id>
+    <published>2021-01-27T14:22:27.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/2021/01/27/codeforces-1475a/&quot;&gt;A. Odd Divisor&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;/2021/01/27/codeforces-1475b/&quot;&gt;B. New Year’s Number&lt;/a&gt;&lt;br&gt;
+&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="Codeforces Round" scheme="https://infang.me/tags/Codeforces-Round/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475G - Strange Beauty</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475g/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475g/</id>
+    <published>2021-01-27T13:42:22.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/G&quot;&gt;Problem - 1475G - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;给出一串长度为$n$的数列，问至少需要删除几个元素，才能使得对于任意$a_i, a_j$($i \ne j$)，均有$a_i$能被$a_j$整除或$a_j$能被$a_j$整除。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+    <category term="number" scheme="https://infang.me/tags/number/"/>
+    
+    <category term="theory" scheme="https://infang.me/tags/theory/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475F - Unusual Matrix</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475f/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475f/</id>
+    <published>2021-01-27T13:00:33.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/F&quot;&gt;Problem - 1475F - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;给出仅有$0$和$1$组成的矩阵$a$和矩阵$b$，它们的大小为$n \times n$。可以对矩阵$a$的任意一行或任意一列做&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%BC%82%E6%88%96&quot;&gt;逻辑异或&lt;/a&gt;运算任意次（也可以是0次），问能否将矩阵$a$变换到矩阵$b$。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="constructive algorithms" scheme="https://infang.me/tags/constructive-algorithms/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475E - Advertising Agency</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475e/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475e/</id>
+    <published>2021-01-27T07:14:48.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/E&quot;&gt;Problem - 1475E - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;给出两个整数$n$和$k$($1 \le k \le n \le 1000$)，之后给出$n$个整数$a_1, a_2, \ldots a_n$。选出其中的$k$个整数使它们的和最大。最多有几种选法(对$10^9 + 7$求模)？。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="sortings" scheme="https://infang.me/tags/sortings/"/>
+    
+    <category term="implementation" scheme="https://infang.me/tags/implementation/"/>
+    
+    <category term="combinatorics" scheme="https://infang.me/tags/combinatorics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475D - Cleaning the Phone</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475d/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475d/</id>
+    <published>2021-01-27T06:18:47.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/D&quot;&gt;Problem - 1475D - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;Polycarp的手机里有$n$个应用，第$i$个应用占用$a_i$个单元的存储空间，具有$b_i$($b_i = 1$或$b_i = 2$)的舒适度，现在Polycarp需要释放至少$m$个单元的存储空间。求Polycarp最少需要损失多少的舒适度，或输出&lt;code&gt;-1&lt;/code&gt;表示不存在能够释放至少$m$个单元的存储空间的方案。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="binary search" scheme="https://infang.me/tags/binary-search/"/>
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+    <category term="sortings" scheme="https://infang.me/tags/sortings/"/>
+    
+    <category term="number theory" scheme="https://infang.me/tags/number-theory/"/>
+    
+    <category term="greedy" scheme="https://infang.me/tags/greedy/"/>
+    
+    <category term="two pointers" scheme="https://infang.me/tags/two-pointers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475C - Ball in Berland</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475c/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475c/</id>
+    <published>2021-01-27T05:35:20.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/C&quot;&gt;Problem - 1475C - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;毕业典礼上的舞会由若干对男女组成。已知共有$a$名男生和$b$名女生想要参加以及$k$对男女（不存在完全相同的两对）。要求在这几对男女中选出两对，使得没有人同时出现在两对之中，共有多少种取法？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="graphs" scheme="https://infang.me/tags/graphs/"/>
+    
+    <category term="combinatorics" scheme="https://infang.me/tags/combinatorics/"/>
+    
+    <category term="dfs and similar" scheme="https://infang.me/tags/dfs-and-similar/"/>
+    
+    <category term="hashing" scheme="https://infang.me/tags/hashing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475B - New Year&#39;s Number</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475b/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475b/</id>
+    <published>2021-01-27T05:23:41.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/B&quot;&gt;Problem - 1475B - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;给出一个整数$n$($1 \leq n \leq 10^6$)，判断其是否能表示为$2020$和$2021$的和的形式。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="dp" scheme="https://infang.me/tags/dp/"/>
+    
+    <category term="brute force" scheme="https://infang.me/tags/brute-force/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Codeforces 1475A - Odd Divisor</title>
+    <link href="https://infang.me/2021/01/27/codeforces-1475a/"/>
+    <id>https://infang.me/2021/01/27/codeforces-1475a/</id>
+    <published>2021-01-27T03:09:59.000Z</published>
+    <updated>2021-03-13T15:31:33.740Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeforces.com/problemset/problem/1475/A&quot;&gt;Problem - 1475A - Codeforces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;题目大意&quot;&gt;题目大意&lt;/h2&gt;
+&lt;p&gt;给出一个整数$n$($2 \le n \le 10^{14}$)，判断$n$能否被一个大于1的奇数整除。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="math" scheme="https://infang.me/tags/math/"/>
+    
+    <category term="bitmasks" scheme="https://infang.me/tags/bitmasks/"/>
+    
+    <category term="number theory" scheme="https://infang.me/tags/number-theory/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Painting the Fence</title>
+    <link href="https://infang.me/2020/08/20/painting-the-fence/"/>
+    <id>https://infang.me/2020/08/20/painting-the-fence/</id>
+    <published>2020-08-20T13:17:54.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文将介绍 Codeforces 上一道暴力求解法的题目，并介绍如何使用前缀优化的方法来降低时间复杂度.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="brute force" scheme="https://infang.me/tags/brute-force/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Igor In the Museum</title>
+    <link href="https://infang.me/2020/08/20/igor-in-the-museum/"/>
+    <id>https://infang.me/2020/08/20/igor-in-the-museum/</id>
+    <published>2020-08-20T06:35:06.000Z</published>
+    <updated>2021-03-13T15:31:33.744Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文将介绍 Codeforces 上一道图论的题目，并使用 Depth-First Search (DFS, 深度优先搜索) 算法进行解决.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ACM" scheme="https://infang.me/categories/ACM/"/>
+    
+    
+    <category term="graphs" scheme="https://infang.me/tags/graphs/"/>
+    
+    <category term="DFS" scheme="https://infang.me/tags/DFS/"/>
+    
+  </entry>
+  
+</feed>
